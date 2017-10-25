@@ -7,4 +7,4 @@ After finishing *Learn Enough(TM) Git to be Dangerous*, you'll know enough Git t
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
 
-Take care now. Bye!
+Added a few texts.
